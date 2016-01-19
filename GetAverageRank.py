@@ -1,5 +1,7 @@
 
 fileName = "/Users/Yang/Desktop/TestFactory.jmj"
+
+哈哈哈哈
 # str = ""
 
 # def analyseLineData(data):
